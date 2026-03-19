@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    font-family:Arial;
+    }
+    
+    nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:#333;
+    color:white;
+    padding:15px;
+    }
+    
+    nav ul{
+    list-style:none;
+    display:flex;
+    gap:20px;
+    }
+    
+    nav a{
+    color:white;
+    text-decoration:none;
+    }
+    
+    section{
+    padding:80px;
+    height:100vh;
+    }
+    
+    #home{
+    background:#f4f4f4;
+    }
+    
+    #skills{
+    background:#e2e2e2;
+    }
+    
+    #education{
+    background:#f4f4f4;
+    }
+    
+    #projects{
+    background:#e2e2e2;
+    }
+    
+    #contact{
+    background:#f4f4f4;
+    }
+    
